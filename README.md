@@ -9,18 +9,19 @@
 <br clear="both">
 
 <p>
-  Hello Word! 👋, Sou o Matheus! Um estudante entusiasta por programação e tecnologia do Brasil 🦖
+  Hello Word! 👋, Sou o Matheus! Um Web-Designer entusiasta por programação e tecnologia do Brasil 🦖
+
+  - 🔭 Atuo como desenvolvedor web com foco em Front-end e SEO.
 
   - 🌱 Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas pelo ENIAC.
 
   - 🎓 Formado em Gestão da Tecnologia da Informação.
 
-  - 🔭 Procurando minha primeira oportunidade de emprego em Desenvolvimento Web.
 </p>
 
 <p>👨‍💻 Mais sobre mim
   
-  - 💬 Atualmente morando em São Paulo. Tenho experiência com JavaScript, HTML5, CSS, React e Vue.js, além de algumas metodologias ágeis muito úteis na área de tecnologia, incluindo Scrum, Kanban.
+  - 💬 Atualmente morando em São Paulo. Tenho experiência com JavaScript, PHP, HTML5, CSS, React e Vue.js, além de algumas metodologias ágeis muito úteis na área de tecnologia, incluindo Scrum, Kanban.
 
   - ⚡ Gosto de futebol, assistir filmes e séries! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e ajudam na resolução de problemas.
 </p>
@@ -30,6 +31,7 @@
 ### Principais skills:
 <div align="left"> 
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
