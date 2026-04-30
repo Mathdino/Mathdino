@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,20&text=Matheus%20Dino&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20·%20Front-end%20·%20SEO&descAlignY=58&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,20&text=Matheus%20Dino&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descSize=18">
 
 <div align="center">
 
