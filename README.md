@@ -13,8 +13,8 @@
 ```typescript
 const matheus = {
   localização:   "São Paulo, Brasil 🇧🇷",
-  atuação:       "Web Developer — Front-end & SEO",
-  formação:      ["Gestão da TI", "Análise e Desenvolvimento de Sistemas (ENIAC)"],
+  atuação:       "Front-end Developer",
+  formação:      ["Gestão da TI", "Análise e Desenvolvimento de Sistemas"],
   skills:        ["JavaScript", "TypeScript", "React", "Vue.js", "PHP", "Node.js"],
   metodologias:  ["Scrum", "Kanban"],
   interesses:    ["⚽ Futebol", "🎬 Filmes & Séries", "💡 Tecnologia"],
@@ -92,12 +92,6 @@ const matheus = {
   <a href="https://www.linkedin.com/in/matheus-moraes-dino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=Mathdino&s=40&c=4D9FFF&bg=00000000&no=3&ff=digi&tb=Visitantes:+&ta=" />
 </div>
 
 <br>
